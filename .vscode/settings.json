@@ -1,0 +1,10 @@
+{
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.autopep8"
+    },
+    "appService.defaultWebAppToDeploy": "/subscriptions/7275f91e-5ada-4ebc-8287-4f66b1d8050e/resourceGroups/Azure_resource_group/providers/Microsoft.Web/sites/phm-review-notes",
+    "appService.deploySubpath": ".",
+    "python.formatting.provider": "none",
+    
+    
+}

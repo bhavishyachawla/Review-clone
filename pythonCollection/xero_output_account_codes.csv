@@ -1,0 +1,285 @@
+Codes,Name
+,Santander Savings ...8605
+,Petty Cash
+001,Sales
+002,PMI
+003,CI
+004,Self Payer
+005,Consumables
+006,Packages
+007,NHS
+008,Gift Vouchers
+009,Corporate
+010,Sports Teams
+011,Podiatry Consumables 
+012,Administration Fee
+013,Injections
+014,Occupational Health
+015,Podiatry Stock
+016,Rental Income - Ryedale
+017,Sales reconciliation - adjustment
+018,BBC FIT
+019,Mike – GD sales
+101,Cost of Consumables
+102,Commission Paid
+103,Stock (tape etc)
+103-1,Stock (office equipment)
+104,Equipment
+105,Cost of Podiatry Consumables
+106,Opening stock
+107,Stock Movement
+108,Cost of injection consumables
+109,Pilates Costs
+110,Treatment Room Set Up Cost
+111,Pilates Group Classes
+112,Paediatrics cost of consumables
+114,Gym Set Up Costs
+150,Subcontractor Costs
+151,Therapist Salaries
+152,Therapist Ers NIC
+153,Therapists Ers Pension
+154,Podiatrists Salaries
+155,Podiatrists Ers NIC
+156,Podiatrists Ers Pension
+157,COS - Furloughed Salary costs
+325,Direct Expenses
+399,Gifts
+400,Advertising Literature
+400-1,Advertising Photographs
+400-2,Company Branding
+400-3,Google Adwords advertising
+400-4,Magazine Advertising
+400-5,Advertising postage
+400-6,Mailchimp Advertising
+400-7,Website
+400-8,Marketing Consulting
+400-9,Facebook posts
+401,Accountancy fees
+401-1,Bank/Finance Charges
+401-2,Legal and Professional Fees
+401-3,Valuations & surveys
+401-4,Planning
+401-5,Architecture Fees
+401-6,Tax Investigation
+401-7,Hire purchase interest
+402,Bookkeeping Software
+408-1,Cleaning Service
+408-2,Laundry
+408-3,Cleaning Supplies & Equipment
+408-4,Window Cleaning
+408-5,Waste disposal
+408-6,Tudor Court Service Charge
+408-7,Sanitary & Clinical Waste Disposal
+408-8,PPE
+409-1,Health & Safety 
+409-2,Fire Extinguisher Maintenance & Service 
+409-3,Human Resources 
+411,Servicing And repairs of Equipment
+412,Consulting
+413-1,IT Equipment 
+413-2,Clinic Room Equipment
+413-3,Events equipment/supplies
+413-4,Bedding & Towels
+413-5,Office Equipment 
+413-6,Signage
+414,Amortisation of Intangibles
+415,Depreciation on Physio Equipment
+416,Depreciation on Computer Equipment
+416-1,Depreciation on Website Design
+416-2,Profit / loss on disposal of assets
+416-3,Depreciation on motor vehicles
+417,Depreciation on Furniture
+418,Charitable and Political Donations
+419,Staff Gifts
+420,Staff Entertaining
+421,Staff meetings
+424,Business Entertaining
+429,General Expenses
+431,Sundries
+432,Theft
+433,Private Practice / Employers Liability Insurance
+433-1,Relevant Life Insurance policy
+433-10,Building Insurance Wootton
+433-2,Car Insurance 
+433-3,Leighton Consultants Insuarnce
+433-4,Cyber Security Insurance
+433-5,Life Insurance
+433-6,Professional Liability /Medical Malpractice Insurance
+433-7,Managers & Officers Insurance
+433-8,Criminal Prosecution Defence Cover
+433-9,Accountant Protection Insurance
+437,Interest Paid
+438,Interest on late payment of corporation tax
+445,Gas & Electricity Supply
+445-1,Gas safety checks
+449,Motor Vehicle Expenses
+450,Mileage claims
+451,Parking
+452,Consultancy
+457,Operating Lease Payments
+458,Building Control
+460,Vehicle leasing
+461-1,Stationery
+461-2,Literature Printing 
+461-3,Printer Ink
+463,IT Expenses
+465,General Rates
+466,Water Rates
+469,Rent
+470,External Room Hire
+472-2,Batteries
+472-3,Magazines
+472-4,Air freshener 
+472-5,Refreshments
+472-6,Postage & Courier
+472-7,Water coolers
+474,Property Repairs & Maintenance
+474-1,Repairs 
+474-2,Lightbulbs & fittings
+474-3,Electrical Repairs 
+474-4,Plumbing Repairs
+474-5,Pest Control
+474-6,Gardener 
+474-7,Locksmith
+474-8,Equipment Repairs & Maintenance
+475,Uniform
+476,Employers Pension Contributions
+476-1,Employers National Insurance
+476-2,Reception Salaries
+478,Directors' Remuneration
+479,Admin - Furloughed salary costs
+480,Staff Training
+481,Recruitment Fees
+482,Pensions Costs
+483,Medical Insurance
+485,Subscriptions
+489,Telephones & Internet Provider
+489-1,Oberoi
+489-2,Fax Machine Cost
+489-3,Milton Bayer
+490,Mobile Phone
+491,Sponsorship
+492,One Off Telephone & Internet Set Up Costs
+493,Travel - National
+494,Travel - International
+495,Subsistence
+496,Almscliffe Loan and Mortgage Interest
+497,Bank Revaluations
+498,Unrealised Currency Gains
+499,Realised Currency Gains
+50,Other Revenue
+500,Corporation Tax
+501,Digital Matched Funding
+502,Deferred Tax
+51,Bank Interest Received
+510,Staff Loans
+52,Grant Income Received
+520,Management pension contributions
+520-1,Manager's National Insurance
+520-2,Management Salaries
+520-3,Admin Management Salary
+53,NBC – Grant Income
+54,HMRC Furlough payments recieved
+55,Daventry District Council £10k Grant
+56,IPRS Supplier Relief
+57,Compensation for loss of earnings
+58,Grant Income New Building
+600,Rydale Gas & Electric Supply
+600-1,Waste Disposal Ryedale
+601,Rydale Loan and Mortgage Interest
+602,Council Tax Rydale
+603,Rydale Buildings insurance
+606,Management Fees Ryedale
+610,Trade Debtors
+611,Less Provision for Doubtful Debts
+612,Great Denham
+613,Other debtors
+614,Back and Body (Holdings) Limited
+620,Prepayments
+621,Shares in group undertakings
+622,Amounts due from group undertakings
+650,Group Admin Management Fee
+650-1,Group Marketing Costs
+650-2,Group Therapist Training Costs
+650-3,Group Therapist Replacement Costs
+650-4,Group Holiday Cover Costs
+650-5,Support fee 1
+650-6,Room Rent
+650-7,Support fee 2
+700,Stock in hand
+7008,Director's ER NI
+701,Stock
+710,Furniture
+711,Less Accumulated Depreciation on Furniture
+720,Computer Equipment
+721,Less Accumulated Depreciation on Computer Equipment
+724,Website Design
+725,Less Accumulated Depreciation on Website Design
+740,Buildings
+741,Less Accumulated Depreciation on Buildings
+750,Leasehold Improvements
+751,Less Accumulated Depreciation on Leasehold Improvements
+760,Motor Vehicles
+761,Less Accumulated Depreciation on Motor Vehicles
+764,Physio Equipment
+765,Less Accumulated Depreciation on Physio Equipment
+770,Intangibles
+771,Less Accumulated Amortisation on Intangibles
+800,Trade Creditors
+801,Unpaid Expense Claims
+803,Wages Payable
+804,Other Creditors
+805,Accruals
+806,Deferred income - Grant income
+810,Income in Advance
+811,Credit Card Control Account
+812,Government Grant Received
+813,Commissions
+814,Wages Payable - Payroll
+815,Misc sales
+820,VAT
+825,PAYE & NIC Payable
+830,Corporation Tax Provision
+835,Directors' Loan Account
+836,Partnership Trade Debtors Balance
+837,S Golden Directors Loan Account
+838,R Evans Directors Loan Account
+839,Government Grant - Ryedale
+840,Historical Adjustment
+850,Suspense
+858,Pensions Payable
+860,Rounding
+868,Earnings Orders Payable
+877,Tracking Transfers
+900,Loan - A Allen (Almcliff)
+901,Natwest 125K Loan
+902,Natwest Mortgage (Almcliff)
+902-1,Natwest Mortgage (Ryedale)
+902-2,Natwest Loan (Great Denham loan)
+903,Loan - D Golden (Ryedale)
+904,Loan - M Golden (Ryedale)
+905,Loan - A Allen (Ryedale)
+905-1,Loan - A Allen (New Extension)
+906,Natwest Loan £70000.00
+907,Natwest 98K loan
+909,Natwest 100k Loan
+910,Hire Purchase Loan
+911,Loan - Foot Scanner Limited
+912,Loan - Foot scanner BBC Bedford
+913,Loan - shockwave machine
+914,Lombard - Sam Tesla
+915,Lombard - Rich Tesla
+920,Deferred Tax Provision
+940,Insurance monies to be transferred to GD
+941,Insurance monies to be transferred to Medical Limited
+947,Student Loan Deductions Payable
+950,Share Capital
+951,Back & Body Medical
+955,Preference Share Capital
+960,Retained Earnings
+970,Dividends
+971,Additional Dividend - Sam
+972,Additional Dividend - Rich
+973,Dividends received
+975,Preference Share Dividends
+976,Stripe Fees

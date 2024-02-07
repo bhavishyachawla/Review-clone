@@ -1,0 +1,28 @@
+{% extends 'base.html' %}
+
+{% block pagetitle %}Download Ready!{% endblock pagetitle %}
+
+{% block mainbody %}
+
+
+<div class='container m-5'>
+    <div class='p-3'>
+    </div>
+  </div>
+
+
+<div class='container  text-center mt-3 p-5'>
+
+    <H1><label class="label  d-flex align-items-center justify-content-center mt-5"><strong>Your File is Ready to Download. </strong></label></H1>
+    
+
+    <form method='POST' action = "{% url 'downloadacc' %}">
+        {%csrf_token%}
+    <div class='p-5 m-5'>
+        <input type='submit'  class='btn btn-primary m-3 p-3  w-25 ' action="/downloadacc" value='Download'></a>
+        <a href='/accmaker' class='btn btn-primary m-3 p-3 w-25'>Go Back</a>
+    </div>
+
+</div> 
+</form>
+{% endblock mainbody %}

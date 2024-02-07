@@ -1,0 +1,7 @@
+{
+  "Id": "d4713da5-d727-4da6-a463-b85fb7169d1b",
+  "Status": "OK",
+  "ProviderName": "TestApp2",
+  "DateTimeUTC": "\/Date(1691421503538)\/",
+  "ManualJournals": []
+}

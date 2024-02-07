@@ -1,0 +1,7 @@
+{
+  "Id": "7d8d33fc-658d-4d32-93cf-0bee267bd850",
+  "Status": "OK",
+  "ProviderName": "TestApp2",
+  "DateTimeUTC": "\/Date(1691421500961)\/",
+  "BankTransactions": []
+}

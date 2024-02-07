@@ -1,0 +1,7 @@
+{
+  "Id": "73a6db1b-fd41-4de4-a00b-64bc50e129e4",
+  "Status": "OK",
+  "ProviderName": "TestApp2",
+  "DateTimeUTC": "\/Date(1691421510512)\/",
+  "CreditNotes": []
+}
